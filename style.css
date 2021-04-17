@@ -1,0 +1,14 @@
+.techkib-online-tool-button {
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    color: yellow;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px
+}
